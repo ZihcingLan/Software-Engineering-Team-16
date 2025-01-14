@@ -23,7 +23,7 @@ Include a demo video of your game here (you don't have to wait until the end, yo
 Add a group photo here!
 
 - Group member 1, name, email, role
-- Group member 2, name, email, role
+- Group member 2, Yu Qi Lin, rk24876@bristol.ac.uk, chiderlin
 - Group member 3, name, email, role
 - Group member 4, name, email, role
 - Group member 5, name, email, role
