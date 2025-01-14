@@ -20,7 +20,7 @@ Include a demo video of your game here (you don't have to wait until the end, yo
 
 ## Your Group
 
-Add a group photo here!
+![alt text](image.png)
 
 - Group member 1, Hsin Yun Fan, lt24003@bristol.ac.uk, hsinyunF
 - Group member 2, Yu Qi Lin, rk24876@bristol.ac.uk, chiderlin
