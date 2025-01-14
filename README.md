@@ -24,7 +24,7 @@ Add a group photo here!
 
 - Group member 1, Hsin Yun Fan, lt24003@bristol.ac.uk, hsinyunF
 - Group member 2, Yu Qi Lin, rk24876@bristol.ac.uk, chiderlin
-- Group member 3, name, email, role
+- Group member 3, Wei Lin, tr24015@bristol.ac.uk, vivi2393142
 - Group member 4, name, email, role
 - Group member 5, name, email, role
 - Group member 5, name, email, role
