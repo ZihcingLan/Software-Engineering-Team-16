@@ -27,7 +27,7 @@ Add a group photo here!
 - Group member 3, Wei Lin, tr24015@bristol.ac.uk, vivi2393142
 - Group member 4, name, email, role
 - Group member 5, name, email, role
-- Group member 5, name, email, role
+- Group member 6, CHEN PIN-RU, nezii0331@gmail.com, Negi
 
 ## Project Report
 
