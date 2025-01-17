@@ -27,7 +27,7 @@ Include a demo video of your game here (you don't have to wait until the end, yo
 - Group member 3, Wei Lin, tr24015@bristol.ac.uk, vivi2393142
 - Group member 4, Hsing-Min Tu, ma24030@bristol.ac.uk, digotu
 - Group member 5, ZihcingLan, aw24252@bristol.ac.uk, Lan
-- Group member 6, CHEN PIN-RU, tz24192@bristol.ac.uk, Negi :>
+- Group member 6, CHEN PIN-RU, tz24192@bristol.ac.uk, nezii0331
 
 ## Project Report
 
