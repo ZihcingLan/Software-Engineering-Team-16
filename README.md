@@ -34,21 +34,10 @@ Include a demo video of your game here (you don't have to wait until the end, yo
 
 ### Game Research
 
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 40%;
-}
-table th:nth-of-type(3) {
-    width: 40%;
-}
-</style>
 
 | Name | Introduction | Feasibility / Challenges |
 |------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| **Unspottable**      | Multiple players join a party game where their goal is to blend in with robots and try to identify and beat other players among the robots. | **Feasibility**: ★★★☆☆<br>1. Algorithm for robot behavior.<br>2. Convert 3D to 2D.<br>3. Support simultaneous player controls. |
+| **Unspottable**      | Multiple players join a party game where their goal is to blend in with robots and try to identify and beat other players among the robots. | **Feasibility**: ★★★☆☆<br>1. Algorithm for robot behavior.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>2. Convert 3D to 2D.<br>3. Support simultaneous player controls. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 | **Taiko no Tatsujin**| A rhythm music game where you choose your favorite song and score points by hitting notes with perfect timing as they reach the target spots. | **Feasibility**: ★★★★☆<br>1. Sync controls, music, and visuals.<br>2. Convert music to beat points. |
 | **Scream Chicken Jumpy**| Control the chicken with your voice to move through obstacles and aim for the longest distance. | **Feasibility**: ★★★☆☆<br>1. Voice detection mechanism.<br>2. Overlay game graphics on player video.<br>3. Record and replay gameplay. |
 | **Super Bunny Man**  | A co-op physics platformer where players control a rabbit-costumed character. Team up locally or online to beat levels, find carrots, and race against the clock. | **Feasibility**: ★☆☆☆☆<br>1. 3D to 2D transition may affect smoothness. |
