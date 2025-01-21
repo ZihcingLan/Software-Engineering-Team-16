@@ -35,7 +35,7 @@ Include a demo video of your game here (you don't have to wait until the end, yo
 ### Game Research
 
 
-| Name | Introduction |          Feasibility / Challenges          |
+| Name | Introduction |         &nbsp; Feasibility / Challenges          |
 |------|--------------|-------------------------------------------------------------------------------------------|
 | **Unspottable**      | Multiple players join a party game where their goal is to blend in with robots and try to identify and beat other players among the robots. | **Feasibility**: ★★★☆☆<br>1. Algorithm for robot behavior.<br>2. Convert 3D to 2D.<br>3. Support simultaneous player controls. |
 | **Taiko no Tatsujin**| A rhythm music game where you choose your favorite song and score points by hitting notes with perfect timing as they reach the target spots. | **Feasibility**: ★★★★☆<br>1. Sync controls, music, and visuals.<br>2. Convert music to beat points. |
